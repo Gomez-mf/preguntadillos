@@ -1,0 +1,43 @@
+[
+    {
+        "categoria": "Who is",
+        "pregunta": "¿Quién soy?",
+        "respuesta": "Malenuchi",
+        "incorrecta1": "Majo",
+        "incorrecta2": "Gerardo",
+        "incorrecta3": "Vera",
+        "imagen": "https://i.postimg.cc/HWSG9XTR/Male5.png",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Who is",
+        "pregunta": "¿Cuál es mi animal favorito?",
+        "respuesta": "Aves",
+        "incorrecta1": "Perros",
+        "incorrecta2": "Gatos",
+        "incorrecta3": "Serpientes",
+        "imagen": "https://i.postimg.cc/tJjKvNsG/Male2.png",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Who is",
+        "pregunta": "¿Hincha de que equipo soy",
+        "respuesta": "Boquita el más grande",
+        "incorrecta1": "Bayern Munchen",
+        "incorrecta2": "riBer",
+        "incorrecta3": "Real Madrid",
+        "imagen": "https://i.postimg.cc/W4f5BbCp/Male1.png",
+        "object-fit": "cover"
+    }
+    ,
+    {
+        "categoria": "Who is",
+        "pregunta": "¿Con quien me voy a casar",
+        "respuesta": "Con Florecita no",
+        "incorrecta1": "Con un moto papi",
+        "incorrecta2": "Con un chofer",
+        "incorrecta3": "Con auron xxd",
+        "imagen":"https://i.postimg.cc/JHbyp3Tq/Male3.png" ,
+        "object-fit": "cover"
+    }
+]
